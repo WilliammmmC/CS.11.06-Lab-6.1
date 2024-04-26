@@ -31,7 +31,7 @@ You will be provided with four text files and one java file.
 
 * AdventureTime.java
 
-Two text files (**testInputOneTwo.txt** and **inputOneTwo.txt**) are to be used for **Challenge 1** and **Challenge 2**. The purpose of the **testInputOneTwo.txt** file is to provide you with a smaller amount of data that you can use to more easily test your methods with. When you believe that your method is correct, use the **inputOneTwo.txt** file to get an answer to **Challenge 1** and **Challenge 2**.
+Two text files (**testInputOneTwo.txt**and **inputOneTwo.txt**) are to be used for **Challenge 1** and **Challenge 2**. The purpose of the **testInputOneTwo.txt** file is to provide you with a smaller amount of data that you can use to more easily test your methods with. When you believe that your method is correct, use the **inputOneTwo.txt** file to get an answer to **Challenge 1** and **Challenge 2**.
 
 Two text files (**testInputThreeFour.txt** and **inputThreeFour.txt**) are to be used for **Challenge 3** and **Challenge 4**. The purpose of the **testInputThreeFour.txt** file is to provide you with a smaller amount of data that you can use to more easily test your methods with. When you believe that your method is correct, use the **inputThreeFour.txt** file to get an answer to **Challenge 3** and **Challenge 4**.
 
